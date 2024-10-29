@@ -6,12 +6,3 @@
     }
   }
 }
-
-/* Picture in Picture rounded Corners */
-:picture-in-picture {
-  /* about:config: zen.theme.border-radius */
-  /* css: --zen-border-radius */
-  border: 3px solid red !important;
-  border-radius: var(--zen-border-radius) !important;
-}
-
